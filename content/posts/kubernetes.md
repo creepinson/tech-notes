@@ -5,7 +5,6 @@ tags:
     - "Kubernetes"
 slug: "kube-setup"
 description: "Setting up a k3s cluster with rancher"
-draft: true
 ---
 
 ## Requirements
