@@ -2,13 +2,20 @@ baseURL = '/'
 languageCode = 'en-us'
 title = "Theo's Tech Notes"
 theme = "terminal"
+enableGitInfo = true
+
+[frontmatter]
+date = [":git", "date", "lastmod"]
+lastmod = ["lastmod", ":git", "date", "publishDate"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]
+
 [params]
     contentTypeName = "posts"
     themeColor = "blue"
     fullWidthTheme = true
     centerTheme = true
     showLastUpdated =  true
-    enableGitInfo = true
 
 [languages]
   [languages.en]
