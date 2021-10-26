@@ -9,7 +9,7 @@ description: "Creating your first kubernetes deployment with rancher"
 
 ## Requirements
 
-- [A kubernetes cluster with rancher](/posts/kube-setup)
+- [A kubernetes cluster](/posts/kube-setup)
 
 ## Getting Started
 
