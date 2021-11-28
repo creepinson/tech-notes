@@ -1,1 +1,3 @@
 public/
+*-patch.yml
+.hugo-build.lock

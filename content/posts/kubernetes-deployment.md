@@ -1,10 +1,10 @@
 ---
-title: "Creating a Rancher Deployment"
+title: "Creating a Kubernetes Deployment"
 tags:
     - "Advanced"
     - "Kubernetes"
 slug: "kube-deploy"
-description: "Creating your first kubernetes deployment with rancher"
+description: "Creating your first kubernetes deployment"
 ---
 
 ## Requirements
@@ -13,5 +13,8 @@ description: "Creating your first kubernetes deployment with rancher"
 
 ## Getting Started
 
+First, you'll want to create a yaml file that contains your services.
 
+```zsh
 
+```
